@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\bin\Debug\WinFormsAnket.exe.config
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\bin\Debug\WinFormsAnket.exe
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\bin\Debug\WinFormsAnket.pdb
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\obj\Debug\WinFormsAnket.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\obj\Debug\WinFormsAnket.Form1.resources
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\obj\Debug\WinFormsAnket.Properties.Resources.resources
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\obj\Debug\WinFormsAnket.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\obj\Debug\WinFormsAnket.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\obj\Debug\WinFormsAnket.exe
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\obj\Debug\WinFormsAnket.pdb
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\WinFormsAnket\WinFormsAnket\obj\Debug\WinFormsAnket.csproj.CopyComplete
